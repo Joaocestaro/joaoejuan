@@ -1,0 +1,29 @@
+html{
+    margin: 0;
+    padding: 0;
+    font-size: 2em;
+    font-family: cursive;
+}
+
+header {
+    background-color: rgba(50, 164, 44, 0.788);
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.menu {
+    display: flex;
+    
+  }
+
+  .menu a{
+    margin: 30px;
+    list-style: none;
+    text-decoration: none;
+    color: aliceblue;
+
+}
+
+.menu a:hover{
+    color: rgba(88, 10, 101, 0.998);
+}
